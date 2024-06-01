@@ -5,7 +5,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $student_id = $_POST["student_id"];
     $first_name = $_POST["first_name"];
     $last_name = $_POST["last_name"];
-    $class = $_POST["class"];
+    $class = $_POST["batch"];
     $email = $_POST["email"];
     $english = $_POST["english"];
     $hindi = $_POST["hindi"];
