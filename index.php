@@ -126,6 +126,5 @@
         return isValid;
     }
 </script>
-
 </body>
 </html>
