@@ -39,7 +39,7 @@
     </div>
 
     <div class="form-group">
-        <label for="english">English </label>
+        <label for="english">english </label>
         <input type="number" id="english" name="english" >
         <div class="error" id="englishError"></div>
     </div>
@@ -51,9 +51,9 @@
     </div>
 
     <div class="form-group">
-        <label for="math">Math </label>
-        <input type="number" id="math" name="math" >
-        <div class="error" id="mathError"></div>
+        <label for="maths">Maths </label>
+        <input type="number" id="maths" name="maths" >
+        <div class="error" id="mathsError"></div>
     </div>
     <div class="form-group">
         <label for="science">Science </label>
