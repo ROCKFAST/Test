@@ -11,20 +11,20 @@
 <h2>Student Entry Form</h2>
 <form action="connect.php" method="post" onsubmit="return validateForm()">
     <div class="form-group">
-        <label for="studentId">Student ID *</label>
-        <input type="number" id="studentId" name="studentId" required>
+        <label for="student_id">Student ID *</label>
+        <input type="number" id="student_id" name="student_id" required>
         <div class="error" id="studentIdError"></div>
     </div>
 
     <div class="form-group">
-        <label for="firstName">First Name </label>
-        <input type="text" id="firstName" name="firstName" >
+        <label for="first_name">First Name </label>
+        <input type="text" id="first_name" name="first_name" >
         <div class="error" id="firstNameError"></div>
     </div>
 
     <div class="form-group">
-        <label for="lastName">Last Name </label>
-        <input type="text" id="lastName" name="lastName" >
+        <label for="last_name">Last Name </label>
+        <input type="text" id="last_name" name="last_name" >
         <div class="error" id="lastNameError"></div>
     </div>
 
